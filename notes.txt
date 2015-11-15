@@ -1,0 +1,3 @@
+# chef-solo -c hello-conf.rb
+
+# chef-solo -c bye-conf.rb 
